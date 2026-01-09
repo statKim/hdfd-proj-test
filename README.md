@@ -2,7 +2,7 @@
 
 This repository contains the R code to reproduce the simulations and real data analysis presented in the following paper:
 
-> Junyong Park, and Hyunsung Kim (2026+). Two-Sample Projection Test for High-Dimensional Functional Data, *submitted*.
+> Hyunsung Kim and Junyong Park (2026+). Two-Sample Projection Test for High-Dimensional Functional Data, *submitted*.
 
 ## How to use?
 
