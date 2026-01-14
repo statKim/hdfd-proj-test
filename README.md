@@ -4,10 +4,9 @@ This repository contains the R code to reproduce the simulations and real data a
 
 > Hyunsung Kim and Junyong Park (2026+). Two-Sample Projection Test for High-Dimensional Functional Data, *submitted*.
 
-## How to use?
+## Required R Package
 
-If you use `simulation.R`, you can obtain reproducible results in our paper.
-Before you run this code, you need a R package `hdfda` which is in [Here](https://github.com/statKim/hdfda), and it can be installed by the following code:
+Before you run these reproducible codes in the repository, you need a R package `hdfda` which is in [Here](https://github.com/statKim/hdfda), and it can be installed by the following code:
 
 ``` r
 # install.packages("devtools")
